@@ -7,7 +7,7 @@
  "tipodht":22,
  "tiemporefresh":2000,
  "linktestinternet":"www.google.com",
- "conectionString":"HostName=tempSense.azure-devices.net;DeviceId=Pruebas;SharedAccessKey=IdWQtZ5p+R0Ls12kv+UVlCQoCGwG5kmq5ZCnXmxfq/c=",
+ "conectionString":"HostName=abcdef.azure-devices.net;DeviceId=Pruebas;SharedAccessKey=abcdef",
  "dispositivos":{
 	"temperatura":{
 	   "list":[
